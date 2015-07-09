@@ -1,9 +1,11 @@
-package cn.com.geeeeker.field.summonerssimulator;
+package cn.com.geeeeker.field.summonerssimulator.ui;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import cn.com.geeeeker.field.summonerssimulator.R;
 
 
 public class fuwenMoni extends ActionBarActivity {

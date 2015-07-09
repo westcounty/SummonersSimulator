@@ -2,12 +2,10 @@
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/back1"
-    tools:context="cn.com.geeeeker.field.summonerssimulator.addMoling">
+    tools:context="cn.com.geeeeker.field.summonerssimulator.ui.addMoling">
 
 
-    <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="560dp">
+
 
     <TableLayout
         android:layout_width="fill_parent"
@@ -53,7 +51,9 @@
 
         </TableLayout>
 
-
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="560dp">
     </ScrollView>
 
 

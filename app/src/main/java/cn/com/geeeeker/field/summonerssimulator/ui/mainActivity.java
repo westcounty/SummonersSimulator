@@ -1,4 +1,4 @@
-package cn.com.geeeeker.field.summonerssimulator;
+package cn.com.geeeeker.field.summonerssimulator.ui;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -7,6 +7,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
+
+import cn.com.geeeeker.field.summonerssimulator.R;
 
 
 public class mainActivity extends Activity {
