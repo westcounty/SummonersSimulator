@@ -21,7 +21,8 @@ public class mainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //魔灵管理按钮动作
+        //魔灵管理按钮动作 ！
+        //asdasdasd
         molingguanli = (Button)findViewById(R.id.molingguanli);
         molingguanli.setOnClickListener(new View.OnClickListener() {
             @Override
