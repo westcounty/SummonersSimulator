@@ -8,7 +8,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name=".mainActivity"
+            android:name=".ui.mainActivity"
             android:label="@string/app_name"
             android:launchMode="singleTask"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
@@ -19,19 +19,19 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".addMoling"
+            android:name=".ui.addMoling"
             android:label="@string/title_activity_add_moling"
             android:launchMode="singleTask"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
         </activity>
         <activity
-            android:name=".addFuwen"
+            android:name=".ui.addFuwen"
             android:label="@string/title_activity_add_muwen"
             android:launchMode="singleTask"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
         </activity>
         <activity
-            android:name=".fuwenMoni"
+            android:name=".ui.fuwenMoni"
             android:label="@string/title_activity_fuwen_moni"
             android:launchMode="singleTask"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
