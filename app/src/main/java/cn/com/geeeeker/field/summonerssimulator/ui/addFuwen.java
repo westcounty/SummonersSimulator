@@ -10,7 +10,7 @@ import cn.com.geeeeker.field.summonerssimulator.R;
 
 
 public class addFuwen extends Activity {
-
+    //asdasd
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
