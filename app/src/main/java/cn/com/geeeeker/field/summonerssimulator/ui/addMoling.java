@@ -1,5 +1,6 @@
 package cn.com.geeeeker.field.summonerssimulator.ui;
 
+import android.app.Activity;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -8,7 +9,7 @@ import android.view.MenuItem;
 import cn.com.geeeeker.field.summonerssimulator.R;
 
 
-public class addMoling extends ActionBarActivity {
+public class addMoling extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

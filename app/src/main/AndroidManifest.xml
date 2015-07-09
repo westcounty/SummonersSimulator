@@ -4,12 +4,12 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/ic_launcher"
-        android:label="@string/app_name"
+        android:icon="@drawable/logo"
+        android:label="魔灵召唤符文模拟器"
         android:theme="@style/AppTheme" >
         <activity
             android:name=".ui.mainActivity"
-            android:label="@string/app_name"
+            android:label="魔灵召唤符文模拟器"
             android:launchMode="singleTask"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
             <intent-filter>
