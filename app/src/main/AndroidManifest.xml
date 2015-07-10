@@ -4,7 +4,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/logo"
+        android:icon="@drawable/molingdatubiao"
         android:label="魔灵召唤符文模拟器"
         android:theme="@style/AppTheme" >
         <activity
